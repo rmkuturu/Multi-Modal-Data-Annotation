@@ -1,4 +1,4 @@
-# Hedgehog Multi-Modal Evaluation Toolkit
+# Multi-Modal Evaluation Toolkit
 
 ## Credit and Origin
 This project is an independent derivative built from the original repository by [@armaanshk](https://github.com/armaanshk).
